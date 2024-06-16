@@ -1,6 +1,6 @@
 # Hi there, I'm Sapir Dahan 👋
 
-## My Status:
+## My Status: 
 
 <img alt="My Status" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SapirDahan&show_icons=true&rank_icon=github&theme=dracula&icon_color=ff79c6">
 
