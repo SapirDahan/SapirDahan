@@ -8,3 +8,4 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SapirDahan?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/SapirDahan/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=SapirDahan&color=ff69b4)
