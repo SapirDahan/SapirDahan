@@ -9,3 +9,14 @@
 [![LeetCode Stats](https://leetcard.jacoblin.cool/SapirDahan?&theme=unicorn&hide=ranking&ext=skills)](https://leetcode.com/SapirDahan/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SapirDahan&color=ff69b4)
+
+## How to reach me
+
+[![Linkedin-link](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sapir-dahan-225796290)
+
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,mongodb,mysql,git,github,linux,c,cpp,latex,opencv,tensorflow" />
+  </a>
+</p>
