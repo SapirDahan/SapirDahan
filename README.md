@@ -12,6 +12,6 @@
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,mongodb,mysql,git,github,linux,c,cpp,latex,opencv,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=java,py,mongodb,mysql,git,github,linux,c,cpp,latex,opencv,tensorflow,pytorch" />
   </a>
 </p>
